@@ -2,11 +2,11 @@
   "applinks": {
       "details": [
            {
-             "appIDs": [ "66C49P3GHV.akhil.Money-Data" ]
+             "appIDs": [ "1601071125.akhil.Money-Data" ]
            }
        ]
    },
    "webcredentials": {
-      "apps": [ "66C49P3GHV.akhil.Money-Data" ]
+      "apps": [ "1601071125.akhil.Money-Data" ]
    }
 }
