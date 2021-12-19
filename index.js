@@ -9,5 +9,5 @@ express()
   .set('view engine', 'ejs')
   .get('/', (req, res) => res.render('pages/index'))
   .get('/cool', (req, res) => res.send(cool()))
-  .get('/testing123', (req, res) => res.send('testing123'))
+  .get('/.well-known/apple-app-site-association', (req, res) => res.send('testing123'))
   .listen(PORT, () => console.log(`Listening on ${ PORT }`));
