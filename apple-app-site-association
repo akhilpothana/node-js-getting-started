@@ -1,0 +1,12 @@
+{
+  "applinks": {
+      "details": [
+           {
+             "appIDs": [ "66C49P3GHV.com.example.app" ]
+           }
+       ]
+   },
+   "webcredentials": {
+      "apps": [ "66C49P3GHV.com.example.app" ]
+   }
+}
